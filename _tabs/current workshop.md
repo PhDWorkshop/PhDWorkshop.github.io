@@ -3,18 +3,16 @@ title: Current Workshop
 icon: fas fa-chalkboard-teacher
 order: 1
 ---
-### 2023 (Oct) 
+### 2023 (Oct) PhD Workshop
 
-#### PhD Workshop
+Department of Accountancy and Finance, Otago Business School
 
-##### Department of Accountancy and Finance, Otago Business School
+##### **17th October 2023, 10:30~15:00, OBS4.26**
 
-##### 17th October 2023, 10:30~15:00, OBS4.26
-
-###### Organizers: Beam Aschakulporn
+Organizers: Beam Aschakulporn
 
 
-PhD Workshop Programme 
+[PhD Workshop Programme](https://github.com/PhDWorkshop/PastProgrammes/blob/main/PhDWorkshop2023H2.pdf)
 
 Zoom Link: [https://otago.zoom.us/j/91676431420?pwd=RTZpc0dBV0lyMktGejR4dVArNnNaQT09](https://otago.zoom.us/j/91676431420?pwd=RTZpc0dBV0lyMktGejR4dVArNnNaQT09)
 
