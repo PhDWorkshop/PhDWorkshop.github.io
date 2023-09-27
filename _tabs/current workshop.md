@@ -3,13 +3,15 @@ title: Current Workshop
 icon: fas fa-chalkboard-teacher
 order: 1
 ---
-# 2023 (Oct) 
-## PhD Workshop
-## Department of Accountancy and Finance, Otago Business School
+### 2023 (Oct) 
 
-### 17th October 2023, 10:30~15:00, OBS4.26
+#### PhD Workshop
 
-#### Organizers: Beam Aschakulporn
+##### Department of Accountancy and Finance, Otago Business School
+
+##### 17th October 2023, 10:30~15:00, OBS4.26
+
+###### Organizers: Beam Aschakulporn
 
 
 PhD Workshop Programme 
@@ -22,10 +24,11 @@ Password: 55555
 
 For off-campus students, please join the zoom meeting.
 
+ ***
 
 The workshop aims to stimulate our research progress and communication. It is a perfect time for PhD students to know each other’s research interests. All PhD students (including MCom students) are required to attend the workshop. Basically, every presenter will be assigned 6 minutes (5 minutes speech plus 1 minute Q&A). The order of the presentations will be based on PhD seniority. Those who join our department earlier will present first.
 
- 
+ ***
 
 The slides presented in the workshop should be standardized as follows.
 
