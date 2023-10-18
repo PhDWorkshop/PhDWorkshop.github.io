@@ -9,7 +9,7 @@ order: 1
 
 ##### <center>**17th October 2023, 10:30~15:00, OBS4.26**</center>
 
-<center>Organizers: Beam Aschakulporn</center>center>
+<center>Organizers: Beam Aschakulporn</center>
 
 [PhD Workshop Programme](https://github.com/PhDWorkshop/PastProgrammes/blob/main/PhDWorkshop2023H2.pdf)
 
