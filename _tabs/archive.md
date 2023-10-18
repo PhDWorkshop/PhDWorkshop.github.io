@@ -3,8 +3,7 @@ title: Archive
 icon: fas fa-university
 order: 3
 ---
-### Past Events
-Past Workshops
+### Past Workshops
 - 2023 (Oct) 17th PhD Workshop [Full Program PDF Version](https://github.com/PhDWorkshop/PastProgrammes/raw/main/PhDWorkshop2023H2.pdf)
 - 2023 (Jun) 16th PhD Workshop [Full Program PDF Version](https://github.com/PhDWorkshop/PastProgrammes/raw/main/PhDWorkshop2023H1.pdf)
 - 2022 (Oct) 15th PhD Workshop [Full Program PDF Version](https://github.com/PhDWorkshop/PastProgrammes/raw/main/Programme%20for%20PhD%20Workshop%202022%20(Oct).pdf)
