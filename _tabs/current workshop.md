@@ -21,11 +21,11 @@ Password: 55555
 
 For off-campus students, please join the zoom meeting.
 
- ***
+***
 
 The workshop aims to stimulate our research progress and communication. It is a perfect time for PhD students to know each other’s research interests. All PhD students (including MCom students) are required to attend the workshop. Basically, every presenter will be assigned 6 minutes (5 minutes speech plus 1 minute Q&A). The order of the presentations will be based on PhD seniority. Those who join our department earlier will present first.
 
- ***
+***
 
 The slides presented in the workshop should be standardized as follows.
 
